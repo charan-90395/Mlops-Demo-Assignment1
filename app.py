@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-print('Hello MLOps')
-=======
 print('Hello MLOps')
 print('This is from feature1')
->>>>>>> feature1
